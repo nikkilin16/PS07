@@ -17,9 +17,9 @@ ggplot(Nikki_name, aes(x = year, y = n, color = sex)) +
   labs(title= "Gender Distribution of Name 'Nikki'", subtitle = "From 1925 to 2017", x= "Year", y= "Count", color= "Gender") +
   scale_color_manual(values = c("#ff5c7e", "#af5cff"))
 ```
+![pressure-1](https://user-images.githubusercontent.com/95325364/144533873-89d1ade5-c482-4482-852f-e415aec7a23f.png)
 
 ![](README_files/figure-gfm/pressure-1.png)<!-- -->
-
 <figure>
 <img src="white-cat-pat-pat-pinkneontouch.gif" width="100" alt="Kitty_gif" /><figcaption aria-hidden="true">Kitty_gif</figcaption>
 </figure>
